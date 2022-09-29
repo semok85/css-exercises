@@ -1,0 +1,28 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#satu,
+#lima,
+#tiga {
+  background-color: lightpink;
+}
+
+#satu {
+  font-size: 18px;
+}
+
+#dua {
+  font-size: 32px;
+  color: blue;
+}
+
+#tiga {
+  font-size: 24px;
+}
+
+#empat {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: lightgreen;
+}
